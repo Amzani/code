@@ -1,4 +1,4 @@
-# Coding challenges using GoLang
+# Coding challenges using Go
 
 ## Arrays / Strings
 
